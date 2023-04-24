@@ -1,0 +1,5 @@
+git hub URL : https://github.com/Jai1503/react.git
+Deployed site URL : http://35.77.223.33/
+Docker image names
+dev public repo : jaya1503/dev:v1
+prod private repo : jaya1503/prod:v1
